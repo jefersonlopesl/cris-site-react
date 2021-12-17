@@ -7,7 +7,7 @@ return(
     <nav className="navbar">
     <div className="navbar-container">
     <link to="/" className="navbar-logo">
-    TVRL <i className="fab fa-typo3"></i>
+    TVRL <i className="fab fa-typo3" />
     </link>
     </div>
     </nav>
